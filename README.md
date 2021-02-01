@@ -27,9 +27,16 @@ I made this project just for fun, it allows you to create nice and simple GitHub
   <a href="https://github.com/DevinParentice">
     <img align='center' src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>
   </a>
-  <a href="https://github.com/DevinParentice">
-    <img align='center' src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>
+  <a href="https://www.linkedin.com/in/devin-parentice-2372b4170/">
+    <img align='center' src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>
+  </a>
+  <a href="https://stackoverflow.com/users/9119847">
+    <img align='center' src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg' alt='stackoverflow' height='40'>
+  </a>
+  <a href="https://www.reddit.com/user/Shadowism99">
+    <img align='center' src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/reddit.svg' alt='reddit' height='40'>
+  </a>
+  <a href="https://devinparentice.com">
+    <img align='center' src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>
   </a>
 </p>
-
-
