@@ -23,9 +23,13 @@ I made this project just for fun, it allows you to create nice and simple GitHub
 
 - 🔭 I’m currently working on: A web-game. 
 - 📫 How to reach me: devinparentice@gmail.com 
-
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/DevinParentice)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/devin-parentice-2372b4170/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg' alt='stackoverflow' height='40'>](https://stackoverflow.com/users/9119847)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/reddit.svg' alt='Reddit' height='40'>](https://www.reddit.com/user/Shadowism99)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://devinparentice.com)  
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=DevinParentice&show_icons=true)  
+<p align="center">
+  <a href="https://github.com/DevinParentice">
+    <img align='center' src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>
+  </a>
+  <a href="https://github.com/DevinParentice">
+    <img align='center' src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>
+  </a>
+</p>
 
 
