@@ -1,8 +1,9 @@
 # Hi there, my name is Devin
 ## I am a college student studying computer science.
-I made this project just for fun, it allows you to create nice and simple GitHub Readme files that you can copy/paste and use in your profile.
 
 
+#### I am an aspriring software engineer based near Philadelphia, Pennsylvania. I enjoy tackling tough problems while designing and building sleek systems.
+<br>
 <p align="center"> 
   <b>Skills:</b>
   </br>
@@ -21,7 +22,8 @@ I made this project just for fun, it allows you to create nice and simple GitHub
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/heroku/heroku-plain.svg" alt="heroku" width="50" height="50" /> 
 </p>
 
-- 🔭 I’m currently working on: A web-game. 
+- 🔭 I’m currently working on: A web-game.
+- 💼  Working at (soon): Summer intern at JPMorgan Chase & Co.
 - 📫 How to reach me: devinparentice@gmail.com 
 <p align="center">
   <a href="https://github.com/DevinParentice">
