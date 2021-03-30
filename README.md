@@ -22,7 +22,7 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/heroku/heroku-plain.svg" alt="heroku" width="50" height="50" /> 
 </p>
 
-- 🔭 I’m currently working on: Redisgning my website.
+- 🔭 I’m currently working on: Redesigning my website.
 - 💼  Working at (soon): Summer intern at JPMorgan Chase & Co.
 - 📫 How to reach me: devinparentice@gmail.com 
 <p align="center">
