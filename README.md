@@ -23,7 +23,7 @@
 </p>
 
 - 🔭 I’m currently working on: Redesigning my website.
-- 💼  Working at (soon): Summer intern at JPMorgan Chase & Co.
+- 💼  Working at: Summer intern at JPMorgan Chase & Co.
 - 📫 How to reach me: devinparentice@gmail.com 
 <p align="center">
   <a href="https://github.com/DevinParentice">
