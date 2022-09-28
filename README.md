@@ -1,8 +1,8 @@
 # Hi there, my name is Devin
-## I am a college student studying computer science.
+## I am a Software Engineer.
 
 
-#### I am a software engineer based near Philadelphia, Pennsylvania. I enjoy tackling tough problems while designing and building beautiful apps.
+#### I am a software engineer based near New York City. I enjoy tackling tough problems while designing and building beautiful apps.
 <br>
 <p align="center"> 
   <b>Skills:</b>
